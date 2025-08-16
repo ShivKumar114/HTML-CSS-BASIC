@@ -1,0 +1,16 @@
+h1{
+            background-color: aqua;
+            color: rgb(208, 94, 94);
+            text-align: center;
+            font-family: 'Courier New';
+        }
+        body{
+            background: #20251ec7;
+            color: rgb(94, 105, 46);
+        }
+h2{
+    background-color: red;
+}
+   h3{
+    text-align: center;
+   }
