@@ -1,16 +1,21 @@
-h1{
+/* CSS MEIN KOI V CHIZ IGNORE KRNE KE LIYE V CTRL+/ USE KRNA HOTA */
+/* MARGIN MTLB HOTA HAI SPACE  */
+
+
+     h1{
+           margin: 0%;  
             background-color: aqua;
-            color: rgb(208, 94, 94);
+            color: rgb(95, 209, 205);
             text-align: center;
             font-family: 'Courier New';
         }
-        body{
-            background: #20251ec7;
+         body{
+            background: #7ef705c7;
             color: rgb(94, 105, 46);
+             }
+ h2{
+    background-color: rgb(220, 42, 170);
+    }
+      h3{
+         text-align: center;
         }
-h2{
-    background-color: red;
-}
-   h3{
-    text-align: center;
-   }
